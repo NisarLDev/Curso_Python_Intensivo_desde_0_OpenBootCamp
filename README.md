@@ -1,6 +1,8 @@
 # Curso_Python_Intensivo_desde_0_OpenBootCamp
 ## Bibliography:
 
+Exercise 1:
+
 
 ¿Cómo verificar el tamaño de archivo y carpeta en Python?
 
