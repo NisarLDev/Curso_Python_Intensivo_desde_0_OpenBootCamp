@@ -103,7 +103,7 @@ Squarespace
 
 https://static1.squarespace.com/static/641c297e04ddc92ec2edaf29/t/6424942c9119f73c0e827f21/1680118829437/python_list_files_in_directory_recursively.pdf
 
-python - Iterating through file sizes recursively - Stack Overflow
+Python - Iterating through file sizes recursively - Stack Overflow
 
 https://stackoverflow.com/questions/47184124/iterating-through-file-sizes-recursively
 
