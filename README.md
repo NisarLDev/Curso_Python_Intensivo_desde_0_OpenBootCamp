@@ -138,3 +138,13 @@ https://www.geeksforgeeks.org/python-get-list-of-files-in-directory-with-size/
 
 
 https://uniwebsidad.com/libros/algoritmos-python/capitulo-11
+
+Exercise 2:
+
+https://parzibyte.me/blog/2022/05/22/python-ejercicio-agenda/
+
+https://cosasdedevs.com/posts/como-crear-un-crud-en-python-parte-1-estructura-y-clase/
+
+https://cosasdedevs.com/posts/crear-paquete-python-subir-pypi/
+
+https://aprendeconalf.es/docencia/python/ejercicios/listas-tuplas/
