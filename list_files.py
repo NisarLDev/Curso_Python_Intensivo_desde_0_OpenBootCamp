@@ -1,7 +1,7 @@
 import os
 import math
 
-start_path = "Descargas"
+start_path = "Downloads"
 
 for (path,dirs,files) in os.walk(start_path):
     
@@ -21,7 +21,7 @@ for (path,dirs,files) in os.walk(start_path):
 
         print('\t{:15.15s}{:8d} {:18s}'.format(file,fsize,unit))
 
-start_path = "Carpeta_personal"
+start_path = "Personal_folder"
 
 for (path,dirs,files) in os.walk(start_path):
     
