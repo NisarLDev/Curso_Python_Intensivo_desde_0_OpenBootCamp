@@ -148,3 +148,5 @@ https://cosasdedevs.com/posts/como-crear-un-crud-en-python-parte-1-estructura-y-
 https://cosasdedevs.com/posts/crear-paquete-python-subir-pypi/
 
 https://aprendeconalf.es/docencia/python/ejercicios/listas-tuplas/
+
+https://programandofacilsite.wordpress.com/2017/04/23/como-hacer-llamadas-telefonicas-en-python/
