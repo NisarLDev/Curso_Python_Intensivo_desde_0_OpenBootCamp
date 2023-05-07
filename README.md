@@ -29,7 +29,40 @@ https://es.stackoverflow.com/questions/24278/c%C3%B3mo-listar-todos-los-archivos
 Operaciones con ficheros y directorios utilizando Python. Programación en Castellano.
 https://programacion.net/articulo/operaciones_con_ficheros_y_directorios_utilizando_python_1461
 
-
 Operaciones con archivos y carpetas - ▷ Cursos de Programación de 0 a Experto © Garantizados
 https://unipython.com/operaciones-con-archivos-y-carpetas-en-python/
+
+Módulo OS en Python: Crea Carpetas, Renombra Archivos y Trabaja con Directorios - Invidious
+https://invidious.privacydev.net/watch?v=80Z7ojUn3ao
+
+how to get list of folders and files using python - Invidious
+https://invidious.privacydev.net/watch?v=c-NsY41n-Ts
+
+Tutorial Python 3 #16 Ejercicios con Archivos - Invidious
+https://invidious.privacydev.net/watch?v=AL3AG2tN2pU
+
+Python - Ejercicio 49: Mostrar los Archivos de un Directorio Específico - Invidious
+https://invidious.privacydev.net/watch?v=x_XdgHoxnL0
+
+Archivos: lectura de directorios | Python Básico - Invidious
+https://invidious.privacydev.net/watch?v=z9f9n8KgBZc
+
+Listar archivos de una carpeta | python - os.listdir - Invidious
+https://invidious.privacydev.net/watch?v=fiilnEu1_vM
+
+Python 3 - Receta 95: Listar el Contenido de una Carpeta - Invidious
+https://invidious.privacydev.net/watch?v=Bg1tASePcgY
+
+How to list file names and file folder path | Python Tutorial - Invidious
+https://invidious.privacydev.net/watch?v=t4va-o5mcBs
+
+Python Get All the Files in a Directory | Loop through All CSV files in a folder | Python OS Module - Invidious
+https://invidious.privacydev.net/watch?v=_TFtG-lHNHI&listen=false
+
+how to get list of folders and files using python - Invidious
+https://invidious.privacydev.net/watch?v=c-NsY41n-Ts
+
+Listar archivos dentro de carpetas y sub carpetas - Invidious
+https://invidious.privacydev.net/watch?v=ShQojf5l1Fw
+
 
