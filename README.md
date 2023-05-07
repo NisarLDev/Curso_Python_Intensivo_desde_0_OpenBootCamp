@@ -1,4 +1,10 @@
 # Curso_Python_Intensivo_desde_0_OpenBootCamp
+
+Exercises:
+
+1 - 
+
+
 ## Bibliography:
 
 Exercise 1:
