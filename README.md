@@ -65,4 +65,22 @@ https://invidious.privacydev.net/watch?v=c-NsY41n-Ts
 Listar archivos dentro de carpetas y sub carpetas - Invidious
 https://invidious.privacydev.net/watch?v=ShQojf5l1Fw
 
+python - Iterating through file sizes recursively - Stack Overflow
+https://stackoverflow.com/questions/47184124/iterating-through-file-sizes-recursively
+
+Python recursive get size of directory - Python Snipplr Social Repository
+https://snipplr.com/view/47686/python-recursive-get-size-of-directory
+
+Get the size of a file and directory in Python | note.nkmk.me
+https://note.nkmk.me/en/python-os-path-getsize/
+
+Python Get list of files in directory with size - thisPointer
+https://thispointer.com/python-get-list-of-files-in-directory-with-size/
+
+Python List all Files in a Directory - Spark By {Examples}
+https://sparkbyexamples.com/python/python-list-all-files-in-a-directory/
+
+Python - Get list of files in directory with size - GeeksforGeeks
+https://www.geeksforgeeks.org/python-get-list-of-files-in-directory-with-size/
+
 
