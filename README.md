@@ -4,6 +4,7 @@ Exercises:
 
 1 - Get a list of all files with their size from a directory and its subdirectories
 
+2 - Create Phonebook
 
 ## Bibliography:
 
