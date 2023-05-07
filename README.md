@@ -1,5 +1,5 @@
 # Curso_Python_Intensivo_desde_0_OpenBootCamp
-Bibliography:
+##Bibliography:
 
 
 ¿Cómo verificar el tamaño de archivo y carpeta en Python?
@@ -64,6 +64,19 @@ https://invidious.privacydev.net/watch?v=c-NsY41n-Ts
 
 Listar archivos dentro de carpetas y sub carpetas - Invidious
 https://invidious.privacydev.net/watch?v=ShQojf5l1Fw
+
+
+Python program to recursively list files and directories
+https://www.opentechguides.com/how-to/article/python/78/directory-file-list.html
+
+Python - How to list all files in a directory? - Mkyong.com
+https://mkyong.com/python/python-how-to-list-all-files-in-a-directory/
+
+How to Get List of all Files in Directory and Sub-directories? - Python Examples
+https://pythonexamples.org/python-get-list-of-all-files-in-directory-and-sub-directories/
+
+Squarespace 
+https://static1.squarespace.com/static/641c297e04ddc92ec2edaf29/t/6424942c9119f73c0e827f21/1680118829437/python_list_files_in_directory_recursively.pdf
 
 python - Iterating through file sizes recursively - Stack Overflow
 https://stackoverflow.com/questions/47184124/iterating-through-file-sizes-recursively
