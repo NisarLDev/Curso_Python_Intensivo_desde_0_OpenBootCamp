@@ -96,7 +96,7 @@ def agenda():      #Este programa sirve para agregar, modificar, eliminar y cons
 			continue
 		elif opcion == '6': # <---- regresar al menú principal
 			os.system('exit')
-		elif opcion == '7': # <---- regresar al menú principal
+		elif opcion == '7': # <---- Para salir del programa
 			sys.exit()
 		else:
 			print('opción no válida,\nElija una opción del 1 al 7')
