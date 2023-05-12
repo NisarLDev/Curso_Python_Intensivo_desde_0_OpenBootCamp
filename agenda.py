@@ -7,7 +7,7 @@ def agenda():      #Este programa sirve para agregar, modificar, eliminar y cons
 	while(salir):
 
 		print('Bienvenido A Mi Agenda\n')
-		print(' 1.) Ver Contactos\n 2.) Agregar Contacto\n 3.) Buscar Contacto\n 4.) Modificar Contacto\n 5.) Eliminar Contacto\n 6.) Para ir al menú principal\n 7). Para salir del programa')
+		print(' 1.) Ver Contactos\n 2.) Agregar Contacto\n 3.) Buscar Contacto\n 4.) Modificar Contacto\n 5.) Eliminar Contacto\n 6.) Para ir al menú principal\n 7.) Para salir del programa')
 		
 		opcion=input('Escriba el número de la opción que desea ver: ')
 		os.system('clear')
