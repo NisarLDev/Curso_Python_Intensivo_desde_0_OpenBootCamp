@@ -150,3 +150,47 @@ https://cosasdedevs.com/posts/crear-paquete-python-subir-pypi/
 https://aprendeconalf.es/docencia/python/ejercicios/listas-tuplas/
 
 https://programandofacilsite.wordpress.com/2017/04/23/como-hacer-llamadas-telefonicas-en-python/
+
+agenda de telefonos con python - Invidious
+https://yt.artemislena.eu/search?q=%3agenda+de+telefonos+con+python
+
+Tutorial - Python || Crear Agenda de contactos - ET1 - Invidious
+https://yt.artemislena.eu/watch?v=yDCIkGXST_U
+
+Python 3.x POO Tutorial 10 Especial Agenda - Invidious
+https://yt.artemislena.eu/watch?v=NQe376Lx9X8&listen=false
+
+Cómo construir una agenda de contactos con Python. El ABC de Python - Ciclo de Clases Gratuitas - Invidious
+https://yt.artemislena.eu/watch?v=uG3XbVd-m6Q
+
+Python - Nivel 20 - Reto 2 - Agenda telefónica con diccionario - Invidious
+https://yt.artemislena.eu/watch?v=bWRann6lyH0
+
+Curso de Python 02 Ejercicio Agenda Telefónica 00005 Opciones en el programa de la agenda - Invidious
+https://yt.artemislena.eu/watch?v=I26uNtR0x0E
+
+Curso de Python 02 Ejercicio Agenda telefónica - Invidious
+https://yt.artemislena.eu/watch?v=zUlbYc9lhhs
+
+Python: trabajando con diccionarios | Alura Cursos Online
+https://www.aluracursos.com/blog/python-trabajando-con-diccionarios
+
+Rulas735
+https://github.com/Rulas735
+
+Ejercicios de Diccionarios | Aprende con Alf
+https://aprendeconalf.es/docencia/python/ejercicios/diccionarios/
+
+Diccionario en python, con ejemplos
+https://jarroba.com/diccionario-python-ejemplos/
+
+9.4. Resumen (Algoritmos de Programación con Python)
+https://uniwebsidad.com/libros/algoritmos-python/capitulo-9/resumen-7
+
+Diccionario Python: todo lo que necesitas para crearlo y editarlo
+https://blog.hubspot.es/website/diccionario-python
+
+Comprensión de Diccionario en Python: Explicado con ejemplos
+https://www.freecodecamp.org/espanol/news/compresion-de-diccionario-en-python-explicado-con-ejemplos/
+
+
