@@ -8,7 +8,7 @@ Exercises:
 
 ## Bibliography:
 
-Exercise 1:
+### Exercise 1:
 
 
 ¿Cómo verificar el tamaño de archivo y carpeta en Python?
@@ -139,7 +139,7 @@ https://www.geeksforgeeks.org/python-get-list-of-files-in-directory-with-size/
 
 https://uniwebsidad.com/libros/algoritmos-python/capitulo-11
 
-Exercise 2:
+### Exercise 2:
 
 https://parzibyte.me/blog/2022/05/22/python-ejercicio-agenda/
 
@@ -211,4 +211,5 @@ https://uniwebsidad.com/libros/algoritmos-python/capitulo-5/como-romper-un-ciclo
 Cómo usar las instrucciones break, continue y pass cuando se trabaja con bucles en Python 3 | DigitalOcean
 https://www.digitalocean.com/community/tutorials/how-to-use-break-continue-and-pass-statements-when-working-with-loops-in-python-3-es
 
+### Exercise 5:
 
