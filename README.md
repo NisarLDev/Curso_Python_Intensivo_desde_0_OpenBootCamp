@@ -193,4 +193,22 @@ https://blog.hubspot.es/website/diccionario-python
 Comprensión de Diccionario en Python: Explicado con ejemplos
 https://www.freecodecamp.org/espanol/news/compresion-de-diccionario-en-python-explicado-con-ejemplos/
 
+Cómo terminar el programa en Python | Delft Stack
+https://www.delftstack.com/es/howto/python/python-exit-program/
+
+Cómo terminar un programa - Recursos Python
+https://micro.recursospython.com/recursos/como-terminar-un-programa.html
+
+Cerrar la consola de windows desde python - Stack Overflow en español
+https://es.stackoverflow.com/questions/527178/cerrar-la-consola-de-windows-desde-python
+
+Python ejemplos de código – tutorial de programación en Python desde cero para principiantes
+https://www.freecodecamp.org/espanol/news/python-ejemplos-de-codigo-tutorial-de-programacion-en-python-desde-cero-para-principiantes/#-comprensi-n-de-listas-y-diccionarios-en-python
+
+5.4. Cómo romper un ciclo (Algoritmos de Programación con Python)
+https://uniwebsidad.com/libros/algoritmos-python/capitulo-5/como-romper-un-ciclo
+
+Cómo usar las instrucciones break, continue y pass cuando se trabaja con bucles en Python 3 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-use-break-continue-and-pass-statements-when-working-with-loops-in-python-3-es
+
 
