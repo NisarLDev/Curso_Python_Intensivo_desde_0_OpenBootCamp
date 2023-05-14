@@ -8,6 +8,8 @@ Exercises:
 
 3 - Convert excel file to csv writer in python with pandas
 
+6 - Hash password with hash of 32 bits of string
+
 ## Bibliography:
 
 ### Exercise 1:
