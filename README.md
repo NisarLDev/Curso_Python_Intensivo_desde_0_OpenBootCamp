@@ -217,4 +217,34 @@ https://www.digitalocean.com/community/tutorials/how-to-use-break-continue-and-p
 
 https://www.etutorialspoint.com/index.php/369-how-to-convert-excel-to-csv-python-pandas
 
+
 ### Exercise 6:
+
+1 - https://pythoninicios.blogspot.com/2015/09/validar-usuario-y-contrasena-en-python.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
