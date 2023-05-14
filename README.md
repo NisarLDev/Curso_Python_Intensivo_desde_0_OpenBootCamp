@@ -222,7 +222,11 @@ https://www.etutorialspoint.com/index.php/369-how-to-convert-excel-to-csv-python
 
 1 - https://pythoninicios.blogspot.com/2015/09/validar-usuario-y-contrasena-en-python.html
 
+2 - https://www.lawebdelprogramador.com/foros/Python/1763671-Crear-una-contrasena.html
 
+3 - https://stackoverflow.com/questions/27089682/python-typeerror-object-of-type-has-no-len
+
+4 - https://www.yawintutor.com/typeerror-object-of-type-type-has-no-len/
 
 
 
