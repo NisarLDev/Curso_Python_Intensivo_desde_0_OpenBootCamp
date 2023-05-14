@@ -215,6 +215,55 @@ https://uniwebsidad.com/libros/algoritmos-python/capitulo-5/como-romper-un-ciclo
 Cómo usar las instrucciones break, continue y pass cuando se trabaja con bucles en Python 3 | DigitalOcean
 https://www.digitalocean.com/community/tutorials/how-to-use-break-continue-and-pass-statements-when-working-with-loops-in-python-3-es
 
+### Exercise 3:
+
+📙 Números primos | El Libro De Python
+https://ellibrodepython.com/numeros-primos-python
+
+Cómo verificar si un número es primo en Python - Geekflare
+https://geekflare.com/es/prime-number-in-python/
+
+Ejemplo de Números primos - ▷ Cursos de Programación de 0 a Experto © Garantizados
+https://unipython.com/ejemplo-numeros-primos/
+
+Listado de números primos en Python – Exponentis
+http://exponentis.es/listado-de-numeros-primos-en-python
+
+404 Not Found
+http://danigarcia.me/blog/numeros-primos-python/
+
+Numeros primos en python - Mi Diario Python
+https://pythondiario.com/2014/04/numeros-primos-en-python.html
+
+Validando si un número es primo en python | by Eddy Decena | Medium
+https://medium.com/@eddydecena/validando-si-un-n%C3%BAmero-es-primo-en-python-a622cf6b4363
+
+Cómo calcular los números primos hasta "n" en Python
+https://platzi.com/tutoriales/4227-python/23967-como-calcular-los-numeros-primos-hasta-n-en-python/
+
+Python - todos los N primeros números primos
+https://www.lawebdelprogramador.com/foros/Python/1120265-todos-los-N-primeros-numeros-primos.html
+
+date - Identificar número primo python con 4 hilos - Stack Overflow en español
+https://es.stackoverflow.com/questions/561358/identificar-n%C3%BAmero-primo-python-con-4-hilos
+
+Factorización con números primos - Recursos Python
+https://recursospython.com/guias-y-manuales/factorizacion-con-numeros-primos/
+
+Alto Código: Generación de números primos en Python
+https://altocodigo.blogspot.com/2017/09/numeros-primos-en-python.html
+
+¿Cómo escribirías un programa que imprima los números primos entre 1 y n? - Quora
+https://es.quora.com/C%C3%B3mo-escribir%C3%ADas-un-programa-que-imprima-los-n%C3%BAmeros-primos-entre-1-y-n
+
+Generate 32-bit hashes on 32-bit platforms · Issue #14 · tkaitchuck/aHash
+https://github.com/tkaitchuck/aHash/issues/14
+
+Cryptographic hash function for 32-bit length input keys - Cryptography Stack Exchange
+https://crypto.stackexchange.com/questions/16219/cryptographic-hash-function-for-32-bit-length-input-keys
+
+
+
 ### Exercise 5:
 
 https://www.etutorialspoint.com/index.php/369-how-to-convert-excel-to-csv-python-pandas
