@@ -284,17 +284,15 @@ https://www.etutorialspoint.com/index.php/369-how-to-convert-excel-to-csv-python
 23 - bobbyhadz.com
      https://bobbyhadz.com/blog/python-typeerror-strings-must-be-encoded-before-hashing
 
-python - How to correct TypeError: Unicode-objects must be encoded before hashing? - Stack Overflow
-https://stackoverflow.com/questions/7585307/how-to-correct-typeerror-unicode-objects-must-be-encoded-before-hashing
+24 - python - How to correct TypeError: Unicode-objects must be encoded before hashing? - Stack Overflow
+     https://stackoverflow.com/questions/7585307/how-to-correct-typeerror-unicode-objects-must-be-encoded-before-hashing
 
-How to correct TypeError: Unicode-Objects Must be Encoded Before Hashing? - Python Clear
-https://www.pythonclear.com/errors/objects-must-be-encoded-before-hashing/
+25 - How to correct TypeError: Unicode-Objects Must be Encoded Before Hashing? - Python Clear
+     https://www.pythonclear.com/errors/objects-must-be-encoded-before-hashing/
 
-Python TypeError: Unicode-objects must be encoded before hashing | sebhastian
+26 - Python TypeError: Unicode-objects must be encoded before hashing | sebhastian
 https://sebhastian.com/python-unicode-objects-must-be-encoded-before-hashing/
 
-Startpage Resultados de la búsqueda
-https://www.startpage.com/sp/search
 
 Guía de funciones de Python con ejemplos
 https://www.freecodecamp.org/espanol/news/guia-de-funciones-de-python-con-ejemplos/
