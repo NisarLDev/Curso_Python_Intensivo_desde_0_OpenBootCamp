@@ -228,7 +228,9 @@ https://www.etutorialspoint.com/index.php/369-how-to-convert-excel-to-csv-python
 
 4 - https://www.yawintutor.com/typeerror-object-of-type-type-has-no-len/
 
+5 - https://sebhastian.com/python-typeerror-object-of-type-nonetype-has-no-len/
 
+6 - 
 
 
 
