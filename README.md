@@ -6,6 +6,8 @@ Exercises:
 
 2 - Create Phonebook
 
+3 - Convert excel file to csv writer in python with pandas
+
 ## Bibliography:
 
 ### Exercise 1:
@@ -214,3 +216,5 @@ https://www.digitalocean.com/community/tutorials/how-to-use-break-continue-and-p
 ### Exercise 5:
 
 https://www.etutorialspoint.com/index.php/369-how-to-convert-excel-to-csv-python-pandas
+
+### Exercise 6:
