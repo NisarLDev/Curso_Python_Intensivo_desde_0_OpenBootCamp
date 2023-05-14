@@ -230,7 +230,97 @@ https://www.etutorialspoint.com/index.php/369-how-to-convert-excel-to-csv-python
 
 5 - https://sebhastian.com/python-typeerror-object-of-type-nonetype-has-no-len/
 
-6 - 
+6 - 📗 Hash en Python | El Libro De Python
+    https://ellibrodepython.com/hash-python
+
+7 - 📙 Números primos | El Libro De Python
+    https://ellibrodepython.com/numeros-primos-python
+
+8 - Algoritmos Hash - Criptografía con Python y HashLib - Mi Diario Python
+    https://pythondiario.com/2017/09/algoritmos-hash-criptografia-con-python.html
+
+9 - hashlib — Hashes seguros y resúmenes de mensajes — documentación de Python - 3.11.3
+    https://docs.python.org/es/3/library/hashlib.html
+
+10 - Algoritmos hash en Python para cadenas de texto y ficheros » Proyecto A
+     https://proyectoa.com/algoritmos-hash-en-python-para-cadenas-de-texto-y-ficheros/
+
+11 - Python Ejercicio: 1048 HackerRank Definir una Función para Alternar Entre Minúsculas y Mayúsculas - YouTube
+     https://www.youtube.com/watch?v=ayxcdd5d-0c
+
+12 - Usar la Función hash() para Obtener el Hash de un input python - YouTube
+     https://www.youtube.com/results?search_query=Usar+la+Funci%C3%B3n+hash()+para+Obtener+el+Hash+de+un+input+python
+
+13 - Jugando con Python. Uso de hashes Criptográficos mediante el módulo HashLib - YouTube
+     https://www.youtube.com/watch?v=fWWkyuxqNZE
+
+14 - Python hash() Function -- A Simple Guide with Example - YouTube
+     https://www.youtube.com/watch?v=54Qh85vySEg
+
+15 - Hashing passwords with Python and Bcrypt - YouTube
+     https://www.youtube.com/watch?v=hNa05wr0DSA
+
+16 - Programación II - Unidad 4 - Hashing
+     https://sites.google.com/site/programacioniiuno/temario/unidad-4---hashing
+
+17 - 5.5. Transformación de claves (hashing) — Solución de problemas con algoritmos y estructuras de datos
+     https://runestone.academy/ns/books/published/pythoned/SortSearch/TransformacionDeClaves.html
+
+18 - TypeError: object of type ‘NoneType’ has no len() in Python – Its Linux FOSS
+     https://itslinuxfoss.com/type-error-object-type-none-type-no-len-python/
+
+19 - Solve Python TypeError: object of type 'NoneType' has no len() | sebhastian
+     https://sebhastian.com/python-typeerror-object-of-type-nonetype-has-no-len/
+
+20 - JupyterLite
+     https://jupyter.org/try-jupyter/lab/
+
+21 - Online Python Debugger - online editor
+     https://www.onlinegdb.com/online_python_debugger
+
+22 - Python Tutor code visualizer: Visualize code in Python, JavaScript, C, C++, and Java
+     https://pythontutor.com/visualize.html#mode=display
+
+23 - bobbyhadz.com
+     https://bobbyhadz.com/blog/python-typeerror-strings-must-be-encoded-before-hashing
+
+python - How to correct TypeError: Unicode-objects must be encoded before hashing? - Stack Overflow
+https://stackoverflow.com/questions/7585307/how-to-correct-typeerror-unicode-objects-must-be-encoded-before-hashing
+
+How to correct TypeError: Unicode-Objects Must be Encoded Before Hashing? - Python Clear
+https://www.pythonclear.com/errors/objects-must-be-encoded-before-hashing/
+
+Python TypeError: Unicode-objects must be encoded before hashing | sebhastian
+https://sebhastian.com/python-unicode-objects-must-be-encoded-before-hashing/
+
+Startpage Resultados de la búsqueda
+https://www.startpage.com/sp/search
+
+Guía de funciones de Python con ejemplos
+https://www.freecodecamp.org/espanol/news/guia-de-funciones-de-python-con-ejemplos/
+
+Funciones Built-in — documentación de Python - 3.11.3
+https://docs.python.org/es/3/library/functions.html#len
+
+Ejemplos de funciones en Python: Como declarar y llamar con parámetros.
+https://www.freecodecamp.org/espanol/news/ejemplos-de-funciones-de-python-como-declarar-y-llamar-con-parametros/
+
+Sentencia If Else de Python: Explicación de las sentencias condicionales.
+https://www.freecodecamp.org/espanol/news/sentencia-if-else-de-python-explicacion-de-las-sentencias-condiciones/
+
+Manipular cadenas de caracteres en Python | Programming Historian
+https://programminghistorian.org/es/lecciones/manipular-cadenas-de-caracteres-en-python#manipular-cadenas-de-caracteres-en-python
+
+7. Cadenas — Cómo Pensar como un Informático: El aprender con Python vEd 2 documentation
+https://www.openbookproject.net/thinkcs/archive/python/spanish2e/cap07.html
+
+len | Interactive Chaos
+https://interactivechaos.com/es/python/function/len
+
+hashlib — Secure hashes and message digests — Python 3.11.3 documentation
+https://docs.python.org/3/library/hashlib.html
+
+
 
 
 
