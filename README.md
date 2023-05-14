@@ -320,8 +320,13 @@ https://www.etutorialspoint.com/index.php/369-how-to-convert-excel-to-csv-python
 34 - hashlib — Secure hashes and message digests — Python 3.11.3 documentation
      https://docs.python.org/3/library/hashlib.html
 
+35 - https://docs.python.org/3/library/string.html
 
+36 - https://www.codigopiton.com/condicionales-en-python-mucho-mas-que-if-else/
 
+37 - https://www.programarya.com/Cursos/Python/Condicionales/Condicional-if-else
+
+38 - https://es.stackoverflow.com/questions/278864/c%C3%B3mo-puedo-usar-la-sentencia-if-usando-un-rango-de-n%C3%BAmeros-en-python
 
 
 
