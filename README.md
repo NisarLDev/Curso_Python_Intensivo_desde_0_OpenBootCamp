@@ -291,32 +291,32 @@ https://www.etutorialspoint.com/index.php/369-how-to-convert-excel-to-csv-python
      https://www.pythonclear.com/errors/objects-must-be-encoded-before-hashing/
 
 26 - Python TypeError: Unicode-objects must be encoded before hashing | sebhastian
-https://sebhastian.com/python-unicode-objects-must-be-encoded-before-hashing/
+     https://sebhastian.com/python-unicode-objects-must-be-encoded-before-hashing/
 
 
-Guía de funciones de Python con ejemplos
-https://www.freecodecamp.org/espanol/news/guia-de-funciones-de-python-con-ejemplos/
+27 - Guía de funciones de Python con ejemplos
+     https://www.freecodecamp.org/espanol/news/guia-de-funciones-de-python-con-ejemplos/
 
-Funciones Built-in — documentación de Python - 3.11.3
-https://docs.python.org/es/3/library/functions.html#len
+28 - Funciones Built-in — documentación de Python - 3.11.3
+     https://docs.python.org/es/3/library/functions.html#len
 
-Ejemplos de funciones en Python: Como declarar y llamar con parámetros.
-https://www.freecodecamp.org/espanol/news/ejemplos-de-funciones-de-python-como-declarar-y-llamar-con-parametros/
+29 - Ejemplos de funciones en Python: Como declarar y llamar con parámetros.
+     https://www.freecodecamp.org/espanol/news/ejemplos-de-funciones-de-python-como-declarar-y-llamar-con-parametros/
 
-Sentencia If Else de Python: Explicación de las sentencias condicionales.
-https://www.freecodecamp.org/espanol/news/sentencia-if-else-de-python-explicacion-de-las-sentencias-condiciones/
+30 - Sentencia If Else de Python: Explicación de las sentencias condicionales.
+     https://www.freecodecamp.org/espanol/news/sentencia-if-else-de-python-explicacion-de-las-sentencias-condiciones/
 
-Manipular cadenas de caracteres en Python | Programming Historian
-https://programminghistorian.org/es/lecciones/manipular-cadenas-de-caracteres-en-python#manipular-cadenas-de-caracteres-en-python
+31 - Manipular cadenas de caracteres en Python | Programming Historian
+     https://programminghistorian.org/es/lecciones/manipular-cadenas-de-caracteres-en-python#manipular-cadenas-de-caracteres-en-python
 
-7. Cadenas — Cómo Pensar como un Informático: El aprender con Python vEd 2 documentation
-https://www.openbookproject.net/thinkcs/archive/python/spanish2e/cap07.html
+32 - 7. Cadenas — Cómo Pensar como un Informático: El aprender con Python vEd 2 documentation
+     https://www.openbookproject.net/thinkcs/archive/python/spanish2e/cap07.html
 
-len | Interactive Chaos
-https://interactivechaos.com/es/python/function/len
+33 - len | Interactive Chaos
+     https://interactivechaos.com/es/python/function/len
 
-hashlib — Secure hashes and message digests — Python 3.11.3 documentation
-https://docs.python.org/3/library/hashlib.html
+34 - hashlib — Secure hashes and message digests — Python 3.11.3 documentation
+     https://docs.python.org/3/library/hashlib.html
 
 
 
