@@ -1,10 +1,13 @@
 import requests
 
 def datosMeteorologicos():
-  ciudad=input("Escriba el numbre del municipio que desea consultar: ")
+# Pedimos el nombre del municipio por teclado
+  ciudad=input("Escriba el nombre del municipio que desea consultar: ")
+  # Creamos un diccionario con los parámetros de la URL
   parametros={"q":ciudad,
             "units":"metric",
             "APPID":""}
+  # Realizamos la petición, indicando la URL y los parámetros
   respuesta=requests.get("http://api.openweathermap.org/data/2.5/weather",params=parametros)
   if respuesta.status_code == 200:
     # La respuesta json se convierte en un diccionario
@@ -17,7 +20,7 @@ def datosMeteorologicos():
     print("La presión es:",datos["main"]["pressure"],"hPa")
     print("La humedad es:",datos["main"]["humidity"],"%")
   else:
-    print("De esa ciudad no tengo datos.")
+    print("De este municipio no tengo datos.")
     
     
 if __name__ == '__main__':
