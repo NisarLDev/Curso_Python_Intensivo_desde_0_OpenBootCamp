@@ -1,6 +1,6 @@
 import requests
 
-def tiempo():
+def datosMeteorologicos():
   ciudad=input("Escriba el numbre del municipio que desea consultar: ")
   parametros={"q":ciudad,
             "units":"metric",
@@ -21,4 +21,4 @@ def tiempo():
     
     
 if __name__ == '__main__':
-    tiempo()
+    datosMeteorologicos()
