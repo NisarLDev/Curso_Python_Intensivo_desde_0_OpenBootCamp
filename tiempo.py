@@ -5,3 +5,4 @@ def tiempo():
   parametros={"q":ciudad,
             "units":"metric",
             "APPID":""}
+  respuesta=requests.get("http://api.openweathermap.org/data/2.5/weather",params=parametros)
