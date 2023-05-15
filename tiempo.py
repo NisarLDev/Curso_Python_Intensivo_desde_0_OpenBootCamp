@@ -16,5 +16,5 @@ def tiempo():
     print("La temperatura máxima es:",datos["main"]["temp_max"],"ºC")
     print("La presión es:",datos["main"]["pressure"],"hPa")
     print("La humedad es:",datos["main"]["humidity"],"%")
-    else:
+  else:
       print("De esa ciudad no tengo datos.")
