@@ -266,7 +266,9 @@ https://github.com/tkaitchuck/aHash/issues/14
 Cryptographic hash function for 32-bit length input keys - Cryptography Stack Exchange
 https://crypto.stackexchange.com/questions/16219/cryptographic-hash-function-for-32-bit-length-input-keys
 
+### Exercise 4:
 
+https://code.intef.es/prop_didacticas/consulta-el-tiempo-atmosferico-con-python/
 
 ### Exercise 5:
 
