@@ -1,7 +1,7 @@
 import requests
 
 def tiempo():
-  ciudad=input("Dime el nombre de una ciudad:")
+  ciudad=input("Escriba el numbre del municipio que desea consultar: ")
   parametros={"q":ciudad,
             "units":"metric",
             "APPID":""}
@@ -16,3 +16,5 @@ def tiempo():
     print("La temperatura máxima es:",datos["main"]["temp_max"],"ºC")
     print("La presión es:",datos["main"]["pressure"],"hPa")
     print("La humedad es:",datos["main"]["humidity"],"%")
+    else:
+    print("De esa ciudad no tengo datos.")
