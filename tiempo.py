@@ -18,3 +18,7 @@ def tiempo():
     print("La humedad es:",datos["main"]["humidity"],"%")
   else:
     print("De esa ciudad no tengo datos.")
+    
+    
+if __name__ == '__main__':
+    tiempo()
