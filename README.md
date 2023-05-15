@@ -6,7 +6,11 @@ Exercises:
 
 2 - Create Phonebook
 
-3 - Convert excel file to csv writer in python with pandas
+3 - Create list of prime numbers of 1 to N number
+
+4 - Consult meteorology with API of openweathermap.org
+
+5 - Convert excel file to csv writer in python with pandas
 
 6 - Hash password with hash of 32 bits of string with SHA256
 
