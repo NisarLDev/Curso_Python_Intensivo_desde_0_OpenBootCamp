@@ -272,6 +272,8 @@ https://crypto.stackexchange.com/questions/16219/cryptographic-hash-function-for
 
 2 - https://geekflare.com/es/weather-api/
 
+3 - https://anderfernandez.com/blog/como-crear-api-en-python/
+
 ### Exercise 5:
 
 https://www.etutorialspoint.com/index.php/369-how-to-convert-excel-to-csv-python-pandas
