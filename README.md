@@ -270,6 +270,7 @@ https://crypto.stackexchange.com/questions/16219/cryptographic-hash-function-for
 
 1 - https://code.intef.es/prop_didacticas/consulta-el-tiempo-atmosferico-con-python/
 
+2 - https://geekflare.com/es/weather-api/
 
 ### Exercise 5:
 
