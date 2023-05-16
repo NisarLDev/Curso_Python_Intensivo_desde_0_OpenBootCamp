@@ -274,6 +274,8 @@ https://crypto.stackexchange.com/questions/16219/cryptographic-hash-function-for
 
 3 - https://anderfernandez.com/blog/como-crear-api-en-python/
 
+4 - https://pythondiario.com/2018/08/construccion-de-una-api-de-prediccion.html
+
 ### Exercise 5:
 
 https://www.etutorialspoint.com/index.php/369-how-to-convert-excel-to-csv-python-pandas
