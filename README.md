@@ -1,5 +1,7 @@
 # Curso_Python_Intensivo_desde_0_OpenBootCamp
 
+## This is a firt version of the programme
+
 Exercises:
 
 1 - Get a list of all files with their size from a directory and its subdirectories
